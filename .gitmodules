@@ -1,3 +1,6 @@
 [submodule "riscv-tests/riscv-compliance"]
 	path = riscv-tests/riscv-compliance
 	url = https://github.com/riscv/riscv-compliance
+[submodule "tools/micro5sim"]
+	path = tools/micro5sim
+	url = https://github.com/jaruiz/micro5sim
